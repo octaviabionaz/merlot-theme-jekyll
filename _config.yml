@@ -1,6 +1,6 @@
-name: Merlot Theme
-baseurl: http://ZedThree.github.io/merlot-theme-jekyll
-description: a fancy schmancy theme for github pages
+name: Octavia Bionaz
+baseurl: octaviabionaz.github.io
+description: A look into my energetic lifestyle
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
